@@ -1,0 +1,16 @@
+*example:----
+
+*input: p[]= {6,8} , t={2,2}
+*output:p'[]= {8,10}
+
+*algo:----
+
+1. input  present coordinates P(x,y) of a point.
+
+2.input translation points T(tx,ty).
+
+3. find new coordinates P'(x', y') of the point.
+	x'= x+tx
+	y'= y+ty	
+	
+4.print  new positions of the point p'(x',y'). 
